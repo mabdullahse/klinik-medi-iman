@@ -1,0 +1,427 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About Us",
+    "services": "Services",
+    "contact": "Contact",
+    "appointment": "Book Appointment",
+    "whatsapp": "WhatsApp",
+    "address": "No 2-G, Jalan Kiara 2, Pusat Perniagaan Kiara, 43500 Semenyih, Selangor",
+    "phone": "011 6986 3974",
+    "subServices": [
+      { "label": "General Health", "href": "/perkhidmatan/kesihatan-am" },
+      { "label": "Mental Wellness", "href": "/perkhidmatan/kesihatan-mental" },
+      { "label": "Knee & Heel", "href": "/perkhidmatan/lutut-tumit" },
+      { "label": "Weight Management", "href": "/perkhidmatan/pengurusan-berat" },
+      { "label": "OSH & FOMEMA", "href": "/perkhidmatan/osh-fomema" }
+    ]
+  },
+  "whatsapp": {
+    "tooltip": "Have a question? Chat with us directly! 💬",
+    "close": "Close"
+  },
+  "footer": {
+    "brandDesc": "Comprehensive healthcare under one roof for individuals, families & workplaces.",
+    "servicesHeading": "Services",
+    "quickLinksHeading": "Quick Links",
+    "contactHeading": "Contact Us",
+    "services": [
+      { "label": "General Health", "href": "/perkhidmatan/kesihatan-am" },
+      { "label": "Mental Wellness", "href": "/perkhidmatan/kesihatan-mental" },
+      { "label": "Knee & Heel Treatment", "href": "/perkhidmatan/lutut-tumit" },
+      { "label": "Weight Management", "href": "/perkhidmatan/pengurusan-berat" },
+      { "label": "OSH & FOMEMA", "href": "/perkhidmatan/osh-fomema" }
+    ],
+    "quickLinks": [
+      { "label": "Home", "href": "/" },
+      { "label": "About Us", "href": "/tentang-kami" },
+      { "label": "All Services", "href": "/perkhidmatan" },
+      { "label": "Book Appointment", "href": "/temujanji" },
+      { "label": "Contact Us", "href": "/hubungi-kami" }
+    ],
+    "addressLabel": "Address",
+    "address": "No 2-G, Jalan Kiara 2, Pusat Perniagaan Kiara, 43500 Semenyih, Selangor",
+    "phone": "011 6986 3974",
+    "hoursDays": "Monday – Sunday",
+    "hoursTime": "9:00 AM – 9:00 PM",
+    "copyright": "Klinik Medi Iman. All rights reserved.",
+    "madeWith": "Designed with ❤️ for the Semenyih community"
+  },
+  "home": {
+    "hero": {
+      "badge": "✦ Female Doctor Available",
+      "title": "Quality Care,",
+      "highlight": "With Compassion",
+      "description": "Klinik Medi Iman offers comprehensive healthcare services in Semenyih — from general health to mental wellness, OSH & FOMEMA. We are here for you every day.",
+      "ctaWhatsapp": "WhatsApp Now",
+      "ctaAppointment": "Book Appointment",
+      "trustRating": "4.9/5 Google Reviews",
+      "trustLocation": "Semenyih, Selangor",
+      "openLabel": "Open Now",
+      "openSub": "9:00 AM – 9:00 PM daily",
+      "doctorBadge1": "Female",
+      "doctorBadge2": "Doctor",
+      "doctorBadge3": "Available",
+      "videoLabel": "Watch our clinic video"
+    },
+    "trustBar": {
+      "stats": [
+        { "value": "5,000+", "label": "Registered Patients", "sub": "Trusted by the Semenyih community" },
+        { "value": "10+", "label": "Years Experience", "sub": "Expert medical care" },
+        { "value": "7 Days", "label": "Open Every Day", "sub": "9:00 AM – 9:00 PM" },
+        { "value": "100%", "label": "Confidential", "sub": "Your information is safe" }
+      ]
+    },
+    "servicesGrid": {
+      "label": "Our Services",
+      "heading": "Comprehensive Healthcare",
+      "description": "We offer a wide range of medical services under one roof — for you, your family, and your organisation.",
+      "cta": "View All Services",
+      "cardCta": "Learn More",
+      "services": [
+        { "title": "General Health", "titleEn": "General Health", "desc": "Treatment for fever, flu, infections, chronic diseases, minor wounds, nebulisation, ECG, and full blood count.", "href": "/perkhidmatan/kesihatan-am", "badge": "Most Popular" },
+        { "title": "Mental Wellness", "titleEn": "Mental Wellness", "desc": "PHQ-9 & GAD-7 screening, RM 149 mental wellness assessment package, and emotional support sessions.", "href": "/perkhidmatan/kesihatan-mental", "badge": "RM 149 Package" },
+        { "title": "Knee & Heel Treatment", "titleEn": "Knee & Heel Treatment", "desc": "Knee joint injections, plantar fasciitis treatment, orthopaedic assessment, and rehabilitation programmes.", "href": "/perkhidmatan/lutut-tumit", "badge": "" },
+        { "title": "Weight Management", "titleEn": "Weight Management", "desc": "Safe, doctor-supervised weight loss programme with personalised nutrition and healthy lifestyle guidance.", "href": "/perkhidmatan/pengurusan-berat", "badge": "" },
+        { "title": "Occupational Health (OSH)", "titleEn": "Occupational Health", "desc": "Medical surveillance, fitness-to-work, return-to-work, and corporate on-site vaccination programmes.", "href": "/perkhidmatan/osh-fomema", "badge": "Licensed OHD" },
+        { "title": "FOMEMA & Medical Exams", "titleEn": "FOMEMA & Medical Exam", "desc": "FOMEMA examinations for foreign workers, pre-employment checks, and comprehensive laboratory tests.", "href": "/perkhidmatan/osh-fomema", "badge": "" }
+      ]
+    },
+    "aboutDoctor": {
+      "label": "Our Doctor",
+      "name": "Dr. Shahrul Effendi Bin Shuib",
+      "credsLine": "MD (Indonesia) • OHD (NIOSH)",
+      "desc1": "Dr. Shahrul Effendi is the founder and principal doctor of Klinik Medi Iman. He is dedicated to delivering high-quality medical care with a warm and compassionate approach.",
+      "desc2": "With qualifications in general medicine and occupational health (OHD), he provides comprehensive services covering individual, family, and organisational health in Semenyih, Selangor.",
+      "yearsLabel": "Years Experience",
+      "photoPlaceholder": "Photo will be updated",
+      "credentials": [
+        "MD (Indonesia) — Medical Degree",
+        "OHD (NIOSH) — Licensed Occupational Health Doctor",
+        "Registered with Malaysian Medical Council (MMC)",
+        "OSH & Occupational Health Specialist"
+      ],
+      "values": [
+        { "title": "Compassionate Care", "desc": "Every patient is treated with full empathy and respect." },
+        { "title": "Quality Assured", "desc": "Evidence-based treatment following the latest medical standards." },
+        { "title": "Verified Expertise", "desc": "Qualified in both general medicine and occupational health." }
+      ],
+      "cta": "Learn More About Us"
+    },
+    "mentalHealth": {
+      "badge": "✦ Klinik Medi Iman × The Unspoken",
+      "heading": "Mental Wellness",
+      "highlight": "Assessment Package",
+      "subtitle": "\"Where silence finds a voice\"",
+      "description": "Are you feeling anxious, struggling to sleep, losing motivation, or exhausted despite adequate rest? You are not alone. Get professional help today.",
+      "included": [
+        "Professional & thorough doctor assessment",
+        "Emotional support session with a Mental Wellness Consultant",
+        "Flexible access — online or in-person",
+        "Personal action plan & ongoing support"
+      ],
+      "tools": ["PHQ-9 Depression Screening", "GAD-7 Anxiety Screening"],
+      "ctaBook": "Book Package — RM 149",
+      "ctaDate": "Thursdays & Fridays only",
+      "disclaimer": "* Limited to the first 20 bookings only. Free screening available.",
+      "priceLabel": "Introductory Price",
+      "price": "RM 149",
+      "priceSub": "Complete Package"
+    },
+    "hours": {
+      "label": "Operating Hours",
+      "heading": "We Are Here Every Day",
+      "specialLabel": "Special Services",
+      "specialHeading": "Special Schedule & Contact",
+      "schedule": [
+        { "day": "Monday – Thursday", "hours": "9:00 AM – 9:00 PM", "rest": "Break: 1:00 – 2:00 PM" },
+        { "day": "Friday", "hours": "9:00 AM – 9:00 PM", "rest": "Break: 12:30 – 2:30 PM" },
+        { "day": "Saturday – Sunday", "hours": "9:00 AM – 9:00 PM", "rest": "No break" }
+      ],
+      "special": [
+        { "icon": "🧠", "title": "Mental Health Screening", "desc": "Every Thursday & Friday (By appointment)" },
+        { "icon": "📋", "title": "FOMEMA & Occupational Exams", "desc": "Monday – Friday (By appointment)" }
+      ],
+      "openLabel": "Clinic Open Today",
+      "openSub": "9:00 AM – 9:00 PM",
+      "contactLabel": "Phone / WhatsApp",
+      "contactDesc": "For appointments, enquiries, or emergencies — contact us directly.",
+      "ctaWa": "Send WhatsApp"
+    },
+    "testimonials": {
+      "label": "Patient Testimonials",
+      "heading": "Trusted by the Semenyih Community",
+      "sub": "Over 5,000 patients have trusted our care",
+      "googleLabel": "Read Google Reviews",
+      "reviews": [
+        { "name": "Siti Norbahiyah", "location": "Semenyih", "avatar": "SN", "rating": 5, "text": "Alhamdulillah, I am very satisfied with the service at Klinik Medi Iman. The doctor is very friendly and patient in explaining my condition. The clinic is clean and comfortable. Highly recommended!", "service": "General Health" },
+        { "name": "Ahmad Hafizi", "location": "Kajang", "avatar": "AH", "rating": 5, "text": "I came for a knee injection and the results were very satisfying. The doctor is very professional and explained the procedure clearly. My knee pain has reduced significantly. Thank you!", "service": "Knee Treatment" },
+        { "name": "Nurul Ain Zulkifli", "location": "Semenyih", "avatar": "NA", "rating": 5, "text": "I went through the mental wellness package here and it was very helpful. The calm clinic atmosphere and understanding doctor made me feel safe. Thank you so much.", "service": "Mental Wellness" },
+        { "name": "Rozita Hamdan", "location": "Beranang", "avatar": "RH", "rating": 5, "text": "FOMEMA service was fast and easy. Friendly staff, the process didn't take long. Reasonable price and easy to reach location. Will come back!", "service": "FOMEMA" },
+        { "name": "Mohd Zulkarnain", "location": "Semenyih", "avatar": "MZ", "rating": 5, "text": "A very good clinic! The long operating hours suit my work schedule perfectly. No need for long leave just to see a doctor. The doctor is friendly and quickly understands the problem.", "service": "General Health" },
+        { "name": "Farah Liyana", "location": "Semenyih", "avatar": "FL", "rating": 5, "text": "The weight management programme here is very helpful. The doctor monitors carefully and provides practical dietary advice. Already lost 5kg in 2 months! Many thanks.", "service": "Weight Management" }
+      ]
+    },
+    "partners": {
+      "label": "Partners & Certifications",
+      "heading": "Trusted & Certified",
+      "description": "Klinik Medi Iman collaborates with leading industry partners to ensure high-quality healthcare.",
+      "partners": [
+        { "name": "MIOSH", "fullName": "Malaysian Institute of Occupational Safety and Health", "desc": "Strategic partner for better occupational safety and health in the workplace.", "logo": "🏛️" },
+        { "name": "MFASB", "fullName": "MFASB Resources", "desc": "Collaborating in the provision of FOMEMA services and occupational health examinations.", "logo": "🤝" }
+      ],
+      "quote": "\"Proud to partner for a safer, healthier workplace.\"",
+      "quoteAuthor": "— Klinik Medi Iman × MIOSH",
+      "certifications": [
+        "Registered with Malaysian Medical Council (MMC)",
+        "NIOSH-Licensed OHD Doctor",
+        "Registered FOMEMA Panel",
+        "MIOSH Member"
+      ]
+    },
+    "contactMap": {
+      "label": "Our Location",
+      "heading": "Easily Accessible in Semenyih",
+      "addressLabel": "Address",
+      "address1": "No 2-G, Jalan Kiara 2,",
+      "address2": "Pusat Perniagaan Kiara,",
+      "address3": "43500 Semenyih, Selangor",
+      "phoneLabel": "Phone / WhatsApp",
+      "hoursLabel": "Operating Hours",
+      "hoursDays": "Monday – Sunday",
+      "hoursTime": "9:00 AM – 9:00 PM",
+      "ctaWa": "WhatsApp Us",
+      "ctaMap": "Get Directions",
+      "mapTitle": "Klinik Medi Iman Location, Semenyih"
+    }
+  },
+  "aboutPage": {
+    "hero": {
+      "label": "About Us",
+      "title1": "Quality Care,",
+      "title2": "Since 2014",
+      "description": "Klinik Medi Iman was founded with a clear mission — to provide comprehensive, ethical, and compassionate healthcare to the Semenyih community and surrounding areas."
+    },
+    "story": {
+      "heading": "The Story Behind Klinik Medi Iman",
+      "p1": "Klinik Medi Iman was founded on the belief that everyone deserves high-quality medical care — regardless of background or status. We believe that a warm doctor-patient relationship is the foundation of effective treatment.",
+      "p2": "Located at Pusat Perniagaan Kiara, Semenyih, our clinic is easily accessible and offers a wide range of services — from everyday general treatment to specialised occupational health needs.",
+      "p3": "We are proud to be part of the Semenyih community and committed to continuing to provide the best service to you and your family."
+    },
+    "doctor": {
+      "label": "Our Doctor",
+      "name": "Dr. Shahrul Effendi Bin Shuib",
+      "title": "Founder & General Practitioner | OHD (NIOSH)",
+      "p1": "Dr. Shahrul Effendi is a dedicated doctor with over a decade of experience in general medicine and occupational health. He holds an MD degree from Indonesia and OHD qualification from NIOSH Malaysia.",
+      "p2": "His philosophy is simple: \"Patients are not just numbers — they are people with stories, feelings, and unique needs.\" This approach is what makes Klinik Medi Iman special in the eyes of the community.",
+      "credentials": ["MD (Indonesia)", "OHD (NIOSH) — Occupational Health Doctor", "Registered with MMC (Malaysian Medical Council)", "Registered FOMEMA Panel", "MIOSH Member"],
+      "cta": "Book Appointment with Doctor",
+      "photoPlaceholder": "Photo will be updated"
+    },
+    "values": {
+      "heading": "Our Values",
+      "items": [
+        { "title": "Compassionate Care", "desc": "Every patient is a unique individual. We listen, understand, and treat with full empathy." },
+        { "title": "Uncompromising Quality", "desc": "Evidence-based treatment with modern medical equipment and the highest clinical protocol standards." },
+        { "title": "Guaranteed Confidentiality", "desc": "Your medical information is completely safe and confidential. Your trust is our priority." },
+        { "title": "Holistic Care", "desc": "From individuals, families, to organisations — we are here for all levels of health needs." }
+      ]
+    },
+    "timeline": {
+      "heading": "Our Journey",
+      "milestones": [
+        { "year": "2014", "event": "Klinik Medi Iman established in Semenyih" },
+        { "year": "2016", "event": "Obtained OHD (NIOSH) qualification — OSH services launched" },
+        { "year": "2018", "event": "Became a registered FOMEMA panel" },
+        { "year": "2020", "event": "Joined as a MIOSH strategic partner" },
+        { "year": "2023", "event": "Launched Mental Wellness Programme with The Unspoken" },
+        { "year": "2024", "event": "Serving over 5,000 registered patients" }
+      ]
+    },
+    "cta": {
+      "heading": "Start Your Health Journey Today",
+      "description": "Contact us today or book an appointment online. We are ready to serve you.",
+      "btnWa": "WhatsApp Us",
+      "btnAppt": "Book Appointment"
+    }
+  },
+  "servicesPage": {
+    "hero": {
+      "label": "Our Services",
+      "heading": "Comprehensive Healthcare",
+      "description": "All your health needs — individual, family, and organisation — available in one place."
+    },
+    "cta": {
+      "heading": "Questions About Our Services?",
+      "description": "Contact us directly or book an appointment. We are ready to help.",
+      "btnWa": "WhatsApp Us",
+      "btnAppt": "Book Appointment"
+    },
+    "services": [
+      { "title": "General Health", "titleEn": "General Health", "desc": "Treatment for fever, flu, infections, chronic diseases (diabetes, hypertension, cholesterol), minor wounds, nebulisation, ECG, and complete blood tests.", "href": "/perkhidmatan/kesihatan-am", "image": "/assets/services.jpeg", "highlights": ["Fever & Flu Treatment", "Chronic Diseases", "ECG", "FBC (Blood Test)", "Minor Surgery"] },
+      { "title": "Mental Wellness", "titleEn": "Mental Wellness", "desc": "PHQ-9 & GAD-7 screening, RM 149 mental wellness assessment package, emotional support sessions, and personal action plans with specialists.", "href": "/perkhidmatan/kesihatan-mental", "image": "/assets/mental-health.jpeg", "highlights": ["PHQ-9 & GAD-7 Screening", "Emotional Support Sessions", "RM 149 Package", "Online or In-person"] },
+      { "title": "Knee & Heel Treatment", "titleEn": "Knee & Heel Treatment", "desc": "Knee joint injections, plantar fasciitis treatment, orthopaedic assessment, and rehabilitation programmes.", "href": "/perkhidmatan/lutut-tumit", "image": "/assets/services_in_details.jpeg", "highlights": ["Knee Injections", "Plantar Fasciitis", "Orthopaedic Assessment", "Rehabilitation Programme"] },
+      { "title": "Weight Management", "titleEn": "Weight Management", "desc": "Safe, doctor-supervised weight loss and management programme with personalised nutrition and healthy lifestyle guidance.", "href": "/perkhidmatan/pengurusan-berat", "image": "/assets/services.jpeg", "highlights": ["Doctor Supervised", "Nutrition Plan", "Regular Monitoring", "Healthy Lifestyle"] },
+      { "title": "Occupational Health (OSH)", "titleEn": "Occupational Health", "desc": "Occupational health examinations, medical surveillance, fitness-to-work, return-to-work, and corporate vaccination programmes.", "href": "/perkhidmatan/osh-fomema", "image": "/assets/VACCINATION PROGRAM.jpeg", "highlights": ["Fitness-to-Work", "Medical Surveillance", "Corporate Vaccination", "Licensed OHD"] },
+      { "title": "FOMEMA & Medical Exams", "titleEn": "FOMEMA & Medical Exam", "desc": "FOMEMA examinations for foreign workers, pre-employment checks, and comprehensive laboratory tests.", "href": "/perkhidmatan/osh-fomema", "image": "/assets/services_in_details.jpeg", "highlights": ["Registered FOMEMA", "Pre-Employment", "Lab Tests", "Fast Results"] }
+    ]
+  },
+  "generalHealthPage": {
+    "hero": { "label": "General Health", "heading": "General Treatment for All Ages", "description": "From treating a common fever to monitoring chronic diseases — we are ready to serve you every day.", "cta": "Book Appointment" },
+    "servicesHeading": "Service List",
+    "services": [
+      { "cat": "General Treatment", "items": ["Fever, Flu & Infections", "Sore Throat & Cough", "Gastric & Stomach Problems", "Skin Infections", "Allergies & Rashes"] },
+      { "cat": "Chronic Diseases", "items": ["Diabetes", "Hypertension (High Blood Pressure)", "High Cholesterol", "Asthma", "Chronic Disease Monitoring"] },
+      { "cat": "Clinical Procedures", "items": ["Wound Dressing & Minor Sutures", "Nebulisation", "ECG (Electrocardiogram)", "Intramuscular Injections", "Minor Surgery"] },
+      { "cat": "Screenings & Laboratory", "items": ["FBC (Full Blood Count)", "Blood Sugar Test", "Cholesterol Test", "Urine Test", "Pregnancy Test"] },
+      { "cat": "Family Health", "items": ["Children's Health", "Women's Services", "Men's Services", "Vaccinations & Immunisation", "Antenatal Care"] }
+    ],
+    "cta": { "heading": "Open 9:00 AM – 9:00 PM Every Day", "description": "No need for long leave — we are open evenings and weekends for your convenience.", "btnWa": "WhatsApp Now", "btnAppt": "Book Appointment" }
+  },
+  "mentalHealthPage": {
+    "hero": { "label": "Mental Wellness Services", "heading": "You Are Not Alone", "description": "Klinik Medi Iman partners with The Unspoken to bring friendly, confidential, and effective mental health services to you.", "cta": "Book Appointment" },
+    "symptoms": {
+      "label": "Is This You?",
+      "heading": "Signs You May Need Help",
+      "description": "Mental health is just as important as physical health. If you are experiencing any of the symptoms below, do not hesitate to seek professional help.",
+      "items": ["Feeling excessively anxious or worried", "Difficulty sleeping at night", "Feeling depressed or losing motivation", "Tired despite adequate rest", "Difficulty concentrating", "Feeling empty or powerless"]
+    },
+    "package": {
+      "badge": "✦ Klinik Medi Iman × The Unspoken",
+      "heading": "Mental Wellness Assessment Package",
+      "subtitle": "\"Where silence finds a voice\"",
+      "price": "RM 149",
+      "priceLimit": "Introductory Price (First 20 bookings)",
+      "includes": [
+        { "title": "Doctor Assessment", "desc": "Professional and thorough assessment by a registered doctor" },
+        { "title": "Emotional Support Session", "desc": "With an experienced Mental Wellness Consultant" },
+        { "title": "Flexible Access", "desc": "Choose between online or attending the clinic" },
+        { "title": "Personal Action Plan", "desc": "Support plan tailored to your specific needs" },
+        { "title": "Follow-up & Support", "desc": "Follow-up check-ins and additional support sessions available" }
+      ],
+      "dateLabel": "Every Thursday & Friday — By appointment only",
+      "ctaBook": "Book Now — RM 149",
+      "ctaAsk": "Ask for More Information"
+    },
+    "freeScreening": {
+      "heading": "Free Screening Available",
+      "description": "Get a free mental health screening using the PHQ-9 (Depression Screening) and GAD-7 (Anxiety Screening) tools. A quick, confidential process available at our clinic.",
+      "tags": ["PHQ-9 Depression Screening", "GAD-7 Anxiety Screening", "100% Confidential", "No Charge"],
+      "cta": "Register for Free Screening"
+    }
+  },
+  "kneePage": {
+    "hero": { "label": "Knee & Heel", "heading": "Recover from Knee & Heel Pain", "description": "Expert treatment for knee, joint, and heel pain — fast, safe, effective.", "cta": "Book Appointment" },
+    "treatments": {
+      "heading": "Treatments We Offer",
+      "items": [
+        { "icon": "💉", "title": "Knee Joint Injection", "desc": "Corticosteroid or hyaluronic acid injections to relieve chronic knee pain and osteoarthritis." },
+        { "icon": "🦶", "title": "Plantar Fasciitis", "desc": "Treatment for heel pain due to plantar fascia inflammation — combining medication, stretching, and therapy." },
+        { "icon": "🔍", "title": "Orthopaedic Assessment", "desc": "Comprehensive examination of the knee and heel joints to determine diagnosis and treatment plan." },
+        { "icon": "💪", "title": "Rehabilitation Programme", "desc": "Stretching guidance, recovery exercises, and lifestyle advice for long-term recovery." }
+      ]
+    },
+    "conditions": {
+      "heading": "Conditions We Treat",
+      "items": ["Knee Osteoarthritis", "Chronic Knee Pain", "Plantar Fasciitis", "Foot Pain", "Joint Swelling", "Tendon Inflammation", "Post-Physical Activity Pain", "Age-related Knee Pain"]
+    },
+    "cta": { "heading": "Stop Suffering in Pain", "description": "Contact us today for a knee & heel treatment appointment.", "btn": "WhatsApp for Appointment" }
+  },
+  "weightPage": {
+    "hero": { "label": "Weight Management", "heading": "Doctor-Supervised Weight Programme", "description": "Achieve a healthy weight with a safe, effective, and sustainable medical approach.", "cta": "Start Programme" },
+    "steps": {
+      "heading": "How the Programme Works",
+      "items": [
+        { "step": "01", "title": "Initial Assessment", "desc": "BMI check, body composition, medical history, and comprehensive health assessment." },
+        { "step": "02", "title": "Personal Plan", "desc": "Personalised nutrition and lifestyle plan tailored to your health condition and goals." },
+        { "step": "03", "title": "Treatment & Support", "desc": "Medical treatment if required, supplements, and safe exercise guidance." },
+        { "step": "04", "title": "Regular Monitoring", "desc": "Regular follow-ups with the doctor to ensure consistent and safe progress." }
+      ]
+    },
+    "benefits": {
+      "heading": "Programme Benefits",
+      "items": ["Supervised and monitored by a registered doctor", "Realistic and sustainable nutrition plan", "Management of weight-related diseases", "Psychological support and motivation", "Blood pressure, sugar & cholesterol monitoring", "Safe results without dangerous side effects"]
+    },
+    "cta": { "btnWa": "Ask Us", "btnAppt": "Book Appointment" }
+  },
+  "oshPage": {
+    "hero": { "label": "OSH & FOMEMA", "heading": "Occupational Health & FOMEMA", "description": "NIOSH-licensed OHD doctor — protecting worker health and complying with employment law requirements.", "ctaAppt": "Book Appointment", "ctaCorp": "Corporate Enquiry" },
+    "services": {
+      "heading": "OSH & FOMEMA Services",
+      "description": "We provide comprehensive occupational health services for companies, factories, and organisations in Semenyih and surrounding areas.",
+      "items": [
+        { "title": "OHD Doctor Consultation", "desc": "Consultation with a NIOSH-licensed Occupational Health Doctor (OHD) for your organisation's needs." },
+        { "title": "Medical Surveillance", "desc": "Regular health monitoring programme for workers exposed to occupational hazards." },
+        { "title": "Fitness-to-Work", "desc": "Work capability assessment for new employees, post-illness, or high-risk duties." },
+        { "title": "Return-to-Work", "desc": "Assessment and support for workers returning to work after medical leave or injury." },
+        { "title": "On-Site Corporate Vaccination", "desc": "Vaccination programme at your company premises — Hepatitis B, Influenza, MMR, and more." },
+        { "title": "FOMEMA & Pre-Employment", "desc": "FOMEMA examinations for foreign workers and pre-employment examinations for new employees." }
+      ]
+    },
+    "partnership": { "heading": "MIOSH Strategic Partner", "description": "Klinik Medi Iman is proud to be a MIOSH strategic partner in ensuring safer and healthier workplaces.", "quote": "\"Caring Your Health, Protecting Your Workplace. Together, We Care.\"" },
+    "cta": { "heading": "Corporate & Organisation Enquiries", "description": "For enquiries about corporate vaccination programmes, medical surveillance, or OSH packages — contact us directly.", "btnWa": "WhatsApp Corporate Enquiry", "btnAppt": "Book Appointment" }
+  },
+  "appointmentPage": {
+    "hero": { "label": "Appointment", "heading": "Book an Appointment", "description": "Fill in the form below and we will contact you via WhatsApp to confirm your appointment." },
+    "form": {
+      "heading": "Appointment Form",
+      "sub": "Fill in this form and you will be directed to WhatsApp to confirm your appointment.",
+      "nameLbl": "Full Name",
+      "namePlaceholder": "E.g. Ahmad bin Ali",
+      "phoneLbl": "Phone Number",
+      "phonePlaceholder": "012-345 6789",
+      "serviceLbl": "Service",
+      "servicePlaceholder": "Select service...",
+      "services": ["General Health", "Mental Wellness", "Knee & Heel Treatment", "Weight Management", "OSH & Occupational Health", "FOMEMA & Medical Exam", "Vaccination", "Other"],
+      "dateLbl": "Preferred Date",
+      "messageLbl": "Message / Additional Notes",
+      "messagePlaceholder": "State symptoms, questions, or additional information...",
+      "submit": "Send via WhatsApp",
+      "privacyNote": "You will be directed to WhatsApp with this information. No data is stored."
+    },
+    "sidebar": {
+      "waHeading": "Direct WhatsApp",
+      "waDesc": "For an immediate appointment or quick enquiry, contact us directly via WhatsApp.",
+      "waBtn": "Send WhatsApp",
+      "infoHeading": "Clinic Information",
+      "notesHeading": "📝 Important Notes",
+      "notes": ["Appointments confirmed via WhatsApp", "For mental screening: Thursdays & Fridays only", "Please arrive 10 minutes before your appointment", "Bring your identification card"]
+    },
+    "waMessage": "Hello, I would like to book an appointment at Klinik Medi Iman.\n\n*Name:* {name}\n*Phone Number:* {phone}\n*Service:* {service}\n*Preferred Date:* {date}\n*Message:* {message}"
+  },
+  "contactPage": {
+    "hero": { "label": "Contact Us", "heading": "We Are Ready to Serve You", "description": "Have an enquiry? Want to book an appointment? We can be reached through various channels." },
+    "phoneCard": { "heading": "Phone / WhatsApp", "waLabel": "WhatsApp" },
+    "addressCard": { "heading": "Clinic Address", "cta": "Get Directions" },
+    "socialCard": { "heading": "Social Media", "desc": "Follow us for health tips and the latest updates.", "igLabel": "Instagram", "fbLabel": "Facebook" },
+    "hoursHeading": "Operating Hours",
+    "schedule": [
+      { "day": "Monday – Thursday", "time": "9:00 AM – 9:00 PM", "rest": "Break: 1:00 – 2:00 PM" },
+      { "day": "Friday", "time": "9:00 AM – 9:00 PM", "rest": "Break: 12:30 – 2:30 PM" },
+      { "day": "Saturday – Sunday", "time": "9:00 AM – 9:00 PM", "rest": "No break" }
+    ],
+    "openLabel": "Clinic Open Today",
+    "openSub": "9:00 AM – 9:00 PM",
+    "cta": { "heading": "Book Appointment Now", "description": "Don't delay — contact us and get the treatment you need today.", "btn": "Appointment Form" }
+  },
+  "notFound": {
+    "title": "Page Not Found",
+    "description": "Sorry, the page you are looking for does not exist or has been moved.",
+    "homeBtn": "Back to Home",
+    "waBtn": "WhatsApp Us"
+  },
+  "meta": {
+    "siteName": "Klinik Medi Iman",
+    "tagline": "Care with Compassion",
+    "home": { "title": "Klinik Medi Iman | Female Doctor | Semenyih, Selangor", "description": "Klinik Medi Iman in Semenyih — quality care with compassion. General health, mental wellness, knee & heel, weight management, OSH & FOMEMA. Open 9AM–9PM daily." },
+    "about": { "title": "About Us | Klinik Medi Iman Semenyih", "description": "Meet Klinik Medi Iman — founded by Dr. Shahrul Effendi Bin Shuib. Our mission: quality care with compassion in Semenyih." },
+    "services": { "title": "Services | Klinik Medi Iman Semenyih", "description": "All Klinik Medi Iman services — general health, mental wellness, knee & heel treatment, weight management, OSH, and FOMEMA." },
+    "generalHealth": { "title": "General Health | Klinik Medi Iman Semenyih", "description": "General healthcare in Semenyih — fever, flu, diabetes, hypertension, ECG, blood tests, wounds. Open 9AM–9PM daily." },
+    "mentalHealth": { "title": "Mental Wellness | Klinik Medi Iman Semenyih", "description": "Mental health services in Semenyih. PHQ-9 & GAD-7 screening, RM 149 assessment package, emotional support." },
+    "knee": { "title": "Knee & Heel Treatment | Klinik Medi Iman Semenyih", "description": "Knee injections, plantar fasciitis treatment, and orthopaedic assessment in Semenyih. Call 011-6986 3974." },
+    "weight": { "title": "Weight Management | Klinik Medi Iman Semenyih", "description": "Doctor-supervised weight management programme in Semenyih. Safe, effective, and comprehensive." },
+    "osh": { "title": "OSH & FOMEMA | Klinik Medi Iman Semenyih", "description": "OSH and FOMEMA services in Semenyih. NIOSH-licensed OHD doctor. Medical surveillance, fitness-to-work, corporate vaccination." },
+    "appointment": { "title": "Book Appointment | Klinik Medi Iman Semenyih", "description": "Book an appointment at Klinik Medi Iman Semenyih. Call 011-6986 3974 or fill in the online form." },
+    "contact": { "title": "Contact Us | Klinik Medi Iman Semenyih", "description": "Location and contact information for Klinik Medi Iman. No 2-G, Jalan Kiara 2, 43500 Semenyih. 011-6986 3974." }
+  }
+}

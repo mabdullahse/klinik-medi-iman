@@ -1,0 +1,427 @@
+{
+  "nav": {
+    "home": "Laman Utama",
+    "about": "Tentang Kami",
+    "services": "Perkhidmatan",
+    "contact": "Hubungi Kami",
+    "appointment": "Buat Temujanji",
+    "whatsapp": "WhatsApp",
+    "address": "No 2-G, Jalan Kiara 2, Pusat Perniagaan Kiara, 43500 Semenyih, Selangor",
+    "phone": "011 6986 3974",
+    "subServices": [
+      { "label": "Kesihatan Am", "href": "/perkhidmatan/kesihatan-am" },
+      { "label": "Kesihatan Mental", "href": "/perkhidmatan/kesihatan-mental" },
+      { "label": "Lutut & Tumit", "href": "/perkhidmatan/lutut-tumit" },
+      { "label": "Pengurusan Berat", "href": "/perkhidmatan/pengurusan-berat" },
+      { "label": "OSH & FOMEMA", "href": "/perkhidmatan/osh-fomema" }
+    ]
+  },
+  "whatsapp": {
+    "tooltip": "Ada soalan? Hubungi kami terus! 💬",
+    "close": "Tutup"
+  },
+  "footer": {
+    "brandDesc": "Penjagaan kesihatan komprehensif di bawah satu bumbung untuk individu, keluarga & tempat kerja.",
+    "servicesHeading": "Perkhidmatan",
+    "quickLinksHeading": "Pautan Pantas",
+    "contactHeading": "Hubungi Kami",
+    "services": [
+      { "label": "Kesihatan Am", "href": "/perkhidmatan/kesihatan-am" },
+      { "label": "Kesihatan Mental", "href": "/perkhidmatan/kesihatan-mental" },
+      { "label": "Rawatan Lutut & Tumit", "href": "/perkhidmatan/lutut-tumit" },
+      { "label": "Pengurusan Berat Badan", "href": "/perkhidmatan/pengurusan-berat" },
+      { "label": "OSH & FOMEMA", "href": "/perkhidmatan/osh-fomema" }
+    ],
+    "quickLinks": [
+      { "label": "Laman Utama", "href": "/" },
+      { "label": "Tentang Kami", "href": "/tentang-kami" },
+      { "label": "Semua Perkhidmatan", "href": "/perkhidmatan" },
+      { "label": "Buat Temujanji", "href": "/temujanji" },
+      { "label": "Hubungi Kami", "href": "/hubungi-kami" }
+    ],
+    "addressLabel": "Alamat",
+    "address": "No 2-G, Jalan Kiara 2, Pusat Perniagaan Kiara, 43500 Semenyih, Selangor",
+    "phone": "011 6986 3974",
+    "hoursDays": "Isnin – Ahad",
+    "hoursTime": "9:00 PG – 9:00 MLM",
+    "copyright": "Klinik Medi Iman. Hak cipta terpelihara.",
+    "madeWith": "Reka bentuk dengan ❤️ untuk komuniti Semenyih"
+  },
+  "home": {
+    "hero": {
+      "badge": "✦ Doktor Perempuan Tersedia",
+      "title": "Rawatan Berkualiti,",
+      "highlight": "Penuh Keprihatinan",
+      "description": "Klinik Medi Iman menawarkan perkhidmatan kesihatan komprehensif di Semenyih — dari rawatan am, kesihatan mental, hingga OSH & FOMEMA. Kami hadir untuk anda setiap hari.",
+      "ctaWhatsapp": "WhatsApp Sekarang",
+      "ctaAppointment": "Buat Temujanji",
+      "trustRating": "4.9/5 Google Reviews",
+      "trustLocation": "Semenyih, Selangor",
+      "openLabel": "Buka Sekarang",
+      "openSub": "9:00 PG – 9:00 MLM setiap hari",
+      "doctorBadge1": "Doktor",
+      "doctorBadge2": "Perempuan",
+      "doctorBadge3": "Tersedia",
+      "videoLabel": "Tonton video klinik kami"
+    },
+    "trustBar": {
+      "stats": [
+        { "value": "5,000+", "label": "Pesakit Berdaftar", "sub": "Dipercayai komuniti Semenyih" },
+        { "value": "10+", "label": "Tahun Pengalaman", "sub": "Rawatan berpengalaman" },
+        { "value": "7 Hari", "label": "Buka Setiap Hari", "sub": "9:00 PG – 9:00 MLM" },
+        { "value": "100%", "label": "Kerahsiaan Terjamin", "sub": "Maklumat anda selamat" }
+      ]
+    },
+    "servicesGrid": {
+      "label": "Perkhidmatan Kami",
+      "heading": "Penjagaan Kesihatan Menyeluruh",
+      "description": "Kami menawarkan pelbagai perkhidmatan perubatan di bawah satu bumbung — untuk anda, keluarga dan organisasi anda.",
+      "cta": "Lihat Semua Perkhidmatan",
+      "cardCta": "Ketahui Lebih",
+      "services": [
+        { "title": "Kesihatan Am", "titleEn": "General Health", "desc": "Rawatan demam, flu, jangkitan, penyakit kronik, luka kecil, nebulisasi, ECG, dan pemeriksaan darah lengkap.", "href": "/perkhidmatan/kesihatan-am", "badge": "Paling Popular" },
+        { "title": "Kesihatan Mental", "titleEn": "Mental Wellness", "desc": "Saringan PHQ-9 & GAD-7, pakej penilaian kesejahteraan minda RM 149, dan sesi sokongan emosi.", "href": "/perkhidmatan/kesihatan-mental", "badge": "Pakej RM 149" },
+        { "title": "Rawatan Lutut & Tumit", "titleEn": "Knee & Heel Treatment", "desc": "Suntikan sendi lutut, rawatan plantar fasciitis, penilaian ortopedik, dan program pemulihan.", "href": "/perkhidmatan/lutut-tumit", "badge": "" },
+        { "title": "Pengurusan Berat Badan", "titleEn": "Weight Management", "desc": "Program penurunan berat badan yang selamat, diselia doktor, dengan pelan pemakanan dan gaya hidup sihat.", "href": "/perkhidmatan/pengurusan-berat", "badge": "" },
+        { "title": "Kesihatan Pekerjaan (OSH)", "titleEn": "Occupational Health", "desc": "Medical surveillance, fitness-to-work, return-to-work, dan program vaksinasi korporat di tapak.", "href": "/perkhidmatan/osh-fomema", "badge": "OHD Berlesen" },
+        { "title": "FOMEMA & Peperiksaan", "titleEn": "FOMEMA & Medical Exam", "desc": "Peperiksaan FOMEMA untuk pekerja asing, pra-pekerjaan, dan pemeriksaan makmal lengkap.", "href": "/perkhidmatan/osh-fomema", "badge": "" }
+      ]
+    },
+    "aboutDoctor": {
+      "label": "Doktor Kami",
+      "name": "Dr. Shahrul Effendi Bin Shuib",
+      "credsLine": "MD (Indonesia) • OHD (NIOSH)",
+      "desc1": "Dr. Shahrul Effendi adalah pengasas dan doktor utama Klinik Medi Iman. Beliau berdedikasi dalam memberikan rawatan perubatan yang berkualiti tinggi dengan pendekatan yang mesra dan penuh keprihatinan.",
+      "desc2": "Dengan kelayakan dalam perubatan am dan kesihatan pekerjaan (OHD), beliau menawarkan perkhidmatan komprehensif merangkumi kesihatan individu, keluarga, dan organisasi di Semenyih, Selangor.",
+      "yearsLabel": "Tahun Pengalaman",
+      "photoPlaceholder": "Gambar akan dikemaskini",
+      "credentials": [
+        "MD (Indonesia) — Ijazah Perubatan",
+        "OHD (NIOSH) — Doktor Kesihatan Pekerjaan Berlesen",
+        "Berdaftar dengan Majlis Perubatan Malaysia (MMC)",
+        "Pakar OSH & Kesihatan Pekerjaan"
+      ],
+      "values": [
+        { "title": "Penjagaan Penuh Kasih", "desc": "Setiap pesakit diperlakukan dengan penuh empati dan hormat." },
+        { "title": "Kualiti Terjamin", "desc": "Rawatan berasaskan bukti saintifik dan standard perubatan terkini." },
+        { "title": "Kepakaran Tersahkan", "desc": "Berkelayakan dalam perubatan am dan kesihatan pekerjaan." }
+      ],
+      "cta": "Ketahui Lebih Tentang Kami"
+    },
+    "mentalHealth": {
+      "badge": "✦ Klinik Medi Iman × The Unspoken",
+      "heading": "Pakej Penilaian",
+      "highlight": "Kesejahteraan Minda",
+      "subtitle": "\"Where silence finds a voice\"",
+      "description": "Adakah anda berasa cemas, sukar tidur, hilang motivasi, atau penat walaupun telah cukup rehat? Anda tidak keseorangan. Dapatkan bantuan profesional hari ini.",
+      "included": [
+        "Penilaian doktor yang profesional & menyeluruh",
+        "Sesi sokongan emosi bersama Perunding Kesejahteraan Mental",
+        "Akses fleksibel — dalam talian atau fizikal",
+        "Pelan tindakan peribadi & sokongan berterusan"
+      ],
+      "tools": ["PHQ-9 Saringan Kemurungan", "GAD-7 Saringan Keresahan"],
+      "ctaBook": "Tempah Pakej — RM 149",
+      "ctaDate": "Khamis & Jumaat sahaja",
+      "disclaimer": "* Terhad untuk 20 tempahan pertama sahaja. Saringan percuma tersedia.",
+      "priceLabel": "Harga Pengenalan",
+      "price": "RM 149",
+      "priceSub": "Pakej Lengkap"
+    },
+    "hours": {
+      "label": "Waktu Operasi",
+      "heading": "Kami Hadir Setiap Hari",
+      "specialLabel": "Perkhidmatan Khas",
+      "specialHeading": "Jadual Khas & Hubungi Kami",
+      "schedule": [
+        { "day": "Isnin – Khamis", "hours": "9:00 PG – 9:00 MLM", "rest": "Rehat: 1:00 – 2:00 PTG" },
+        { "day": "Jumaat", "hours": "9:00 PG – 9:00 MLM", "rest": "Rehat: 12:30 – 2:30 PTG" },
+        { "day": "Sabtu – Ahad", "hours": "9:00 PG – 9:00 MLM", "rest": "Tiada waktu rehat" }
+      ],
+      "special": [
+        { "icon": "🧠", "title": "Saringan Kesihatan Mental", "desc": "Setiap Khamis & Jumaat (Dengan temujanji)" },
+        { "icon": "📋", "title": "FOMEMA & Peperiksaan Pekerjaan", "desc": "Isnin – Jumaat (Dengan temujanji)" }
+      ],
+      "openLabel": "Klinik Buka Hari Ini",
+      "openSub": "9:00 PG – 9:00 MLM",
+      "contactLabel": "Telefon / WhatsApp",
+      "contactDesc": "Untuk temujanji, pertanyaan, atau kecemasan — hubungi kami terus.",
+      "ctaWa": "Hantar WhatsApp"
+    },
+    "testimonials": {
+      "label": "Kata-Kata Pesakit Kami",
+      "heading": "Dipercayai Komuniti Semenyih",
+      "sub": "Lebih 5,000 pesakit telah mempercayai penjagaan kami",
+      "googleLabel": "Baca Ulasan Google",
+      "reviews": [
+        { "name": "Siti Norbahiyah", "location": "Semenyih", "avatar": "SN", "rating": 5, "text": "Alhamdulillah, saya sangat berpuas hati dengan perkhidmatan di Klinik Medi Iman. Doktor sangat mesra dan sabar menerangkan keadaan kesihatan saya. Klinik bersih dan selesa. Sangat disyorkan!", "service": "Kesihatan Am" },
+        { "name": "Ahmad Hafizi", "location": "Kajang", "avatar": "AH", "rating": 5, "text": "Saya datang untuk suntikan lutut dan hasilnya sangat memuaskan. Doktor sangat profesional dan menerangkan prosedur dengan jelas. Kesakitan lutut saya berkurangan secara ketara. Terima kasih!", "service": "Rawatan Lutut" },
+        { "name": "Nurul Ain Zulkifli", "location": "Semenyih", "avatar": "NA", "rating": 5, "text": "Saya menjalani pakej kesihatan mental di sini dan ia sangat membantu. Suasana klinik yang tenang dan doktor yang memahami membuat saya berasa selamat. Terima kasih banyak-banyak.", "service": "Kesihatan Mental" },
+        { "name": "Rozita Hamdan", "location": "Beranang", "avatar": "RH", "rating": 5, "text": "Perkhidmatan FOMEMA cepat dan mudah. Staff peramah, proses tidak memakan masa lama. Harga berpatutan dan lokasi senang dijangkau. Akan kembali lagi!", "service": "FOMEMA" },
+        { "name": "Mohd Zulkarnain", "location": "Semenyih", "avatar": "MZ", "rating": 5, "text": "Klinik yang sangat bagus! Waktu operasi panjang memang sesuai dengan jadual kerja saya. Tidak perlu ambil cuti panjang untuk jumpa doktor. Doktor peramah dan cepat faham masalah.", "service": "Kesihatan Am" },
+        { "name": "Farah Liyana", "location": "Semenyih", "avatar": "FL", "rating": 5, "text": "Program pengurusan berat badan di sini sangat membantu. Doktor pantau dengan teliti dan beri nasihat pemakanan yang praktikal. Sudah turun 5kg dalam 2 bulan! Sangat terima kasih.", "service": "Pengurusan Berat" }
+      ]
+    },
+    "partners": {
+      "label": "Rakan & Pensijilan",
+      "heading": "Dipercayai & Tersahkan",
+      "description": "Klinik Medi Iman bekerjasama dengan rakan-rakan industri terkemuka untuk memastikan penjagaan kesihatan berkualiti tinggi.",
+      "partners": [
+        { "name": "MIOSH", "fullName": "Malaysian Institute of Occupational Safety and Health", "desc": "Rakan strategik untuk keselamatan dan kesihatan pekerjaan yang lebih baik di tempat kerja.", "logo": "🏛️" },
+        { "name": "MFASB", "fullName": "MFASB Resources", "desc": "Bekerjasama dalam penyediaan perkhidmatan FOMEMA dan pemeriksaan kesihatan pekerjaan.", "logo": "🤝" }
+      ],
+      "quote": "\"Proud to partner for a safer, healthier workplace.\"",
+      "quoteAuthor": "— Klinik Medi Iman × MIOSH",
+      "certifications": [
+        "Berdaftar dengan Majlis Perubatan Malaysia (MMC)",
+        "Doktor OHD Berlesen NIOSH",
+        "Panel FOMEMA Berdaftar",
+        "Ahli MIOSH"
+      ]
+    },
+    "contactMap": {
+      "label": "Lokasi Kami",
+      "heading": "Mudah Dijangkau di Semenyih",
+      "addressLabel": "Alamat",
+      "address1": "No 2-G, Jalan Kiara 2,",
+      "address2": "Pusat Perniagaan Kiara,",
+      "address3": "43500 Semenyih, Selangor",
+      "phoneLabel": "Telefon / WhatsApp",
+      "hoursLabel": "Waktu Operasi",
+      "hoursDays": "Isnin – Ahad",
+      "hoursTime": "9:00 PG – 9:00 MLM",
+      "ctaWa": "WhatsApp Kami",
+      "ctaMap": "Dapatkan Arah",
+      "mapTitle": "Lokasi Klinik Medi Iman, Semenyih"
+    }
+  },
+  "aboutPage": {
+    "hero": {
+      "label": "Tentang Kami",
+      "title1": "Rawatan Berkualiti,",
+      "title2": "Sejak 2014",
+      "description": "Klinik Medi Iman hadir dengan misi yang jelas — memberikan penjagaan kesihatan yang komprehensif, beretika, dan penuh keprihatinan kepada komuniti Semenyih dan kawasan sekitarnya."
+    },
+    "story": {
+      "heading": "Cerita Di Sebalik Klinik Medi Iman",
+      "p1": "Klinik Medi Iman diasaskan atas kepercayaan bahawa setiap insan berhak mendapat rawatan perubatan yang berkualiti tinggi — tanpa mengira latar belakang atau status. Kami percaya bahawa hubungan pesakit-doktor yang mesra adalah asas kepada rawatan yang berkesan.",
+      "p2": "Berlokasi di Pusat Perniagaan Kiara, Semenyih, klinik kami mudah dijangkau dan menawarkan perkhidmatan yang luas — dari rawatan am harian hinggalah kepada keperluan kesihatan pekerjaan yang khusus.",
+      "p3": "Kami berbangga menjadi sebahagian daripada komuniti Semenyih dan komited untuk terus memberikan perkhidmatan terbaik kepada anda dan keluarga anda."
+    },
+    "doctor": {
+      "label": "Doktor Kami",
+      "name": "Dr. Shahrul Effendi Bin Shuib",
+      "title": "Pengasas & Doktor Perubatan Am | OHD (NIOSH)",
+      "p1": "Dr. Shahrul Effendi adalah seorang doktor yang berdedikasi dengan lebih satu dekad pengalaman dalam perubatan am dan kesihatan pekerjaan. Beliau memegang ijazah MD dari Indonesia dan kelayakan OHD dari NIOSH Malaysia.",
+      "p2": "Falsafah beliau mudah: \"Pesakit bukan sekadar nombor — mereka adalah manusia dengan cerita, rasa, dan keperluan unik.\" Pendekatan inilah yang menjadikan Klinik Medi Iman istimewa di mata komuniti.",
+      "credentials": ["MD (Indonesia)", "OHD (NIOSH) — Doktor Kesihatan Pekerjaan", "Berdaftar MMC (Majlis Perubatan Malaysia)", "Panel FOMEMA Berdaftar", "Ahli MIOSH"],
+      "cta": "Buat Temujanji Bersama Doktor",
+      "photoPlaceholder": "Gambar akan dikemaskini"
+    },
+    "values": {
+      "heading": "Nilai-Nilai Kami",
+      "items": [
+        { "title": "Penjagaan Penuh Kasih", "desc": "Setiap pesakit adalah individu unik. Kami mendengar, memahami, dan merawat dengan penuh empati." },
+        { "title": "Kualiti Tanpa Kompromi", "desc": "Rawatan berasaskan bukti saintifik terkini, alat perubatan moden, dan protokol klinikal standard tertinggi." },
+        { "title": "Kerahsiaan Terjamin", "desc": "Maklumat perubatan anda selamat dan sulit sepenuhnya. Kepercayaan anda adalah keutamaan kami." },
+        { "title": "Penjagaan Menyeluruh", "desc": "Daripada individu, keluarga, hingga organisasi — kami hadir untuk semua peringkat keperluan kesihatan." }
+      ]
+    },
+    "timeline": {
+      "heading": "Perjalanan Kami",
+      "milestones": [
+        { "year": "2014", "event": "Klinik Medi Iman ditubuhkan di Semenyih" },
+        { "year": "2016", "event": "Memperoleh kelayakan OHD (NIOSH) — perkhidmatan OSH dimulakan" },
+        { "year": "2018", "event": "Bermula sebagai panel FOMEMA berdaftar" },
+        { "year": "2020", "event": "Bergabung sebagai rakan strategik MIOSH" },
+        { "year": "2023", "event": "Melancarkan Program Kesejahteraan Mental bersama The Unspoken" },
+        { "year": "2024", "event": "Melayani lebih 5,000 pesakit berdaftar" }
+      ]
+    },
+    "cta": {
+      "heading": "Jom Mulakan Perjalanan Kesihatan Anda",
+      "description": "Hubungi kami hari ini atau buat temujanji dalam talian. Kami sedia melayani anda.",
+      "btnWa": "WhatsApp Kami",
+      "btnAppt": "Buat Temujanji"
+    }
+  },
+  "servicesPage": {
+    "hero": {
+      "label": "Perkhidmatan Kami",
+      "heading": "Penjagaan Kesihatan Menyeluruh",
+      "description": "Semua keperluan kesihatan anda — individu, keluarga, dan organisasi — tersedia di satu tempat."
+    },
+    "cta": {
+      "heading": "Ada Soalan Tentang Perkhidmatan Kami?",
+      "description": "Hubungi kami terus atau buat temujanji. Kami sedia membantu.",
+      "btnWa": "WhatsApp Kami",
+      "btnAppt": "Buat Temujanji"
+    },
+    "services": [
+      { "title": "Kesihatan Am", "titleEn": "General Health", "desc": "Rawatan demam, flu, jangkitan, penyakit kronik (diabetes, hipertensi, kolesterol), luka kecil, nebulisasi, ECG, dan pemeriksaan darah lengkap.", "href": "/perkhidmatan/kesihatan-am", "image": "/assets/services.jpeg", "highlights": ["Rawatan Demam & Flu", "Penyakit Kronik", "ECG", "FBC (Ujian Darah)", "Pembedahan Minor"] },
+      { "title": "Kesihatan Mental", "titleEn": "Mental Wellness", "desc": "Saringan PHQ-9 & GAD-7, pakej penilaian kesejahteraan minda RM 149, sesi sokongan emosi, dan pelan tindakan peribadi bersama pakar.", "href": "/perkhidmatan/kesihatan-mental", "image": "/assets/mental-health.jpeg", "highlights": ["Saringan PHQ-9 & GAD-7", "Sesi Sokongan Emosi", "Pakej RM 149", "Online atau Fizikal"] },
+      { "title": "Rawatan Lutut & Tumit", "titleEn": "Knee & Heel Treatment", "desc": "Suntikan sendi lutut, rawatan plantar fasciitis, penilaian ortopedik, dan program pemulihan.", "href": "/perkhidmatan/lutut-tumit", "image": "/assets/services_in_details.jpeg", "highlights": ["Suntikan Lutut", "Plantar Fasciitis", "Penilaian Ortopedik", "Program Pemulihan"] },
+      { "title": "Pengurusan Berat Badan", "titleEn": "Weight Management", "desc": "Program penurunan dan pengurusan berat badan yang selamat, diselia doktor, dengan pelan pemakanan dan gaya hidup sihat.", "href": "/perkhidmatan/pengurusan-berat", "image": "/assets/services.jpeg", "highlights": ["Diselia Doktor", "Pelan Pemakanan", "Pantauan Berkala", "Gaya Hidup Sihat"] },
+      { "title": "Kesihatan Pekerjaan (OSH)", "titleEn": "Occupational Health", "desc": "Peperiksaan kesihatan pekerjaan, medical surveillance, fitness-to-work, return-to-work, dan program vaksinasi korporat.", "href": "/perkhidmatan/osh-fomema", "image": "/assets/VACCINATION PROGRAM.jpeg", "highlights": ["Fitness-to-Work", "Medical Surveillance", "Vaksinasi Korporat", "OHD Berlesen"] },
+      { "title": "FOMEMA & Peperiksaan", "titleEn": "FOMEMA & Medical Exam", "desc": "Peperiksaan FOMEMA untuk pekerja asing, pra-pekerjaan, dan pemeriksaan makmal lengkap.", "href": "/perkhidmatan/osh-fomema", "image": "/assets/services_in_details.jpeg", "highlights": ["FOMEMA Berdaftar", "Pra-Pekerjaan", "Pemeriksaan Makmal", "Keputusan Cepat"] }
+    ]
+  },
+  "generalHealthPage": {
+    "hero": { "label": "Kesihatan Am", "heading": "Rawatan Am untuk Semua Peringkat Umur", "description": "Dari rawatan demam biasa hingga pemantauan penyakit kronik — kami sedia melayan anda setiap hari.", "cta": "Buat Temujanji" },
+    "servicesHeading": "Senarai Perkhidmatan",
+    "services": [
+      { "cat": "Rawatan Umum", "items": ["Demam, Flu & Jangkitan", "Sakit Tekak & Batuk", "Gastrik & Masalah Perut", "Jangkitan Kulit", "Alergi & Ruam"] },
+      { "cat": "Penyakit Kronik", "items": ["Diabetes (Kencing Manis)", "Hipertensi (Darah Tinggi)", "Kolesterol Tinggi", "Asma", "Pemantauan Penyakit Kronik"] },
+      { "cat": "Prosedur Klinikal", "items": ["Balutan Luka & Jahitan Minor", "Nebulisasi", "ECG (Elektrokardiogram)", "Suntikan Intramuskular", "Pembedahan Minor"] },
+      { "cat": "Pemeriksaan & Makmal", "items": ["FBC (Full Blood Count)", "Ujian Gula Darah", "Ujian Kolesterol", "Ujian Air Kencing", "Ujian Kehamilan"] },
+      { "cat": "Kesihatan Keluarga", "items": ["Kesihatan Kanak-kanak", "Perkhidmatan Wanita", "Perkhidmatan Lelaki", "Vaksinasi & Imunisasi", "Penjagaan Ibu Hamil"] }
+    ],
+    "cta": { "heading": "Buka 9:00 PG – 9:00 MLM Setiap Hari", "description": "Tiada perlu ambil cuti — kami buka pada waktu malam dan hujung minggu untuk kemudahan anda.", "btnWa": "WhatsApp Sekarang", "btnAppt": "Buat Temujanji" }
+  },
+  "mentalHealthPage": {
+    "hero": { "label": "Perkhidmatan Kesihatan Mental", "heading": "Anda Tidak Keseorangan", "description": "Klinik Medi Iman bekerjasama dengan The Unspoken untuk membawa perkhidmatan kesihatan mental yang mesra, sulit, dan berkesan kepada anda.", "cta": "Buat Temujanji" },
+    "symptoms": {
+      "label": "Adakah Ini Anda?",
+      "heading": "Tanda-Tanda Anda Mungkin Memerlukan Bantuan",
+      "description": "Kesihatan mental sama pentingnya dengan kesihatan fizikal. Jika anda mengalami mana-mana gejala di bawah, jangan teragak-agak untuk mendapatkan bantuan profesional.",
+      "items": ["Berasa cemas atau bimbang berlebihan", "Sukar tidur pada waktu malam", "Tertekan atau hilang motivasi", "Penat walaupun telah cukup rehat", "Sukar menumpukan perhatian", "Berasa kosong atau tidak bermaya"]
+    },
+    "package": {
+      "badge": "✦ Klinik Medi Iman × The Unspoken",
+      "heading": "Pakej Penilaian Kesejahteraan Minda",
+      "subtitle": "\"Where silence finds a voice\"",
+      "price": "RM 149",
+      "priceLimit": "Harga Pengenalan (20 tempahan pertama)",
+      "includes": [
+        { "title": "Penilaian Doktor", "desc": "Penilaian profesional dan menyeluruh oleh doktor berdaftar" },
+        { "title": "Sesi Sokongan Emosi", "desc": "Bersama Perunding Kesejahteraan Mental berpengalaman" },
+        { "title": "Akses Fleksibel", "desc": "Pilih sama ada dalam talian atau hadir ke klinik" },
+        { "title": "Pelan Tindakan Peribadi", "desc": "Pelan sokongan yang disesuaikan mengikut keperluan anda" },
+        { "title": "Susulan & Sokongan", "desc": "Pemeriksaan susulan dan sesi sokongan tambahan tersedia" }
+      ],
+      "dateLabel": "Setiap Khamis & Jumaat — Dengan temujanji sahaja",
+      "ctaBook": "Tempah Sekarang — RM 149",
+      "ctaAsk": "Tanya Lebih Lanjut"
+    },
+    "freeScreening": {
+      "heading": "Saringan Percuma Tersedia",
+      "description": "Dapatkan saringan kesihatan mental percuma menggunakan alat PHQ-9 (Saringan Kemurungan) dan GAD-7 (Saringan Keresahan). Proses ringkas, sulit, dan boleh dilakukan di klinik kami.",
+      "tags": ["PHQ-9 Saringan Kemurungan", "GAD-7 Saringan Keresahan", "100% Sulit", "Tiada Caj"],
+      "cta": "Daftar Saringan Percuma"
+    }
+  },
+  "kneePage": {
+    "hero": { "label": "Lutut & Tumit", "heading": "Sembuh dari Sakit Lutut & Tumit", "description": "Rawatan pakar untuk sakit lutut, sendi, dan tumit — cepat, selamat, berkesan.", "cta": "Buat Temujanji" },
+    "treatments": {
+      "heading": "Rawatan Yang Kami Tawarkan",
+      "items": [
+        { "icon": "💉", "title": "Suntikan Sendi Lutut", "desc": "Suntikan kortikosteroid atau asid hialuronik untuk melegakan sakit lutut kronik dan osteoartritis." },
+        { "icon": "🦶", "title": "Plantar Fasciitis", "desc": "Rawatan sakit tumit akibat radang plantar fascia — gabungan ubatan, regangan, dan terapi." },
+        { "icon": "🔍", "title": "Penilaian Ortopedik", "desc": "Pemeriksaan menyeluruh sendi lutut dan tumit untuk menentukan diagnosis dan pelan rawatan." },
+        { "icon": "💪", "title": "Program Pemulihan", "desc": "Panduan regangan, senaman pemulihan, dan nasihat gaya hidup untuk pemulihan jangka panjang." }
+      ]
+    },
+    "conditions": {
+      "heading": "Keadaan Yang Kami Rawat",
+      "items": ["Osteoartritis Lutut", "Sakit Lutut Kronik", "Plantar Fasciitis", "Sakit Bawah Kaki", "Bengkak Sendi", "Keradangan Tendon", "Sakit Selepas Aktiviti Fizikal", "Sakit Lutut Akibat Usia"]
+    },
+    "cta": { "heading": "Berhenti Tanggung Kesakitan", "description": "Hubungi kami hari ini untuk temujanji rawatan lutut & tumit.", "btn": "WhatsApp untuk Temujanji" }
+  },
+  "weightPage": {
+    "hero": { "label": "Pengurusan Berat Badan", "heading": "Program Berat Badan Diselia Doktor", "description": "Capai berat badan sihat dengan pendekatan perubatan yang selamat, berkesan dan mampan.", "cta": "Mulakan Program" },
+    "steps": {
+      "heading": "Bagaimana Program Ini Berfungsi",
+      "items": [
+        { "step": "01", "title": "Penilaian Awal", "desc": "Pemeriksaan BMI, komposisi badan, sejarah perubatan, dan penilaian kesihatan menyeluruh." },
+        { "step": "02", "title": "Pelan Peribadi", "desc": "Pelan pemakanan dan gaya hidup yang disesuaikan mengikut keadaan kesihatan dan matlamat anda." },
+        { "step": "03", "title": "Rawatan & Sokongan", "desc": "Rawatan perubatan jika diperlukan, suplemen, dan panduan senaman yang selamat." },
+        { "step": "04", "title": "Pemantauan Berkala", "desc": "Susulan tetap bersama doktor untuk memastikan kemajuan yang konsisten dan selamat." }
+      ]
+    },
+    "benefits": {
+      "heading": "Kelebihan Program Kami",
+      "items": ["Diselia dan dipantau oleh doktor berdaftar", "Pelan pemakanan yang realistik dan mampan", "Pengurusan penyakit berkaitan berat badan", "Sokongan psikologi dan motivasi", "Pemantauan tekanan darah, gula & kolesterol", "Hasil yang selamat tanpa kesan sampingan berbahaya"]
+    },
+    "cta": { "btnWa": "Tanya Kami", "btnAppt": "Buat Temujanji" }
+  },
+  "oshPage": {
+    "hero": { "label": "OSH & FOMEMA", "heading": "Kesihatan Pekerjaan & FOMEMA", "description": "Doktor OHD berlesen NIOSH — melindungi kesihatan pekerja dan mematuhi keperluan undang-undang pekerjaan.", "ctaAppt": "Buat Temujanji", "ctaCorp": "Pertanyaan Korporat" },
+    "services": {
+      "heading": "Perkhidmatan OSH & FOMEMA",
+      "description": "Kami menyediakan perkhidmatan kesihatan pekerjaan yang komprehensif untuk syarikat, kilang, dan organisasi di Semenyih dan sekitarnya.",
+      "items": [
+        { "title": "Perundingan Doktor OHD", "desc": "Konsultasi dengan Doktor Kesihatan Pekerjaan (OHD) berlesen NIOSH untuk keperluan organisasi anda." },
+        { "title": "Medical Surveillance", "desc": "Program pengawasan kesihatan berkala untuk pekerja terdedah kepada hazard pekerjaan." },
+        { "title": "Fitness-to-Work", "desc": "Penilaian kelayakan kerja untuk pekerja baru, pasca-sakit, atau tugas berisiko tinggi." },
+        { "title": "Return-to-Work", "desc": "Penilaian dan sokongan untuk pekerja kembali bekerja selepas cuti sakit atau kecederaan." },
+        { "title": "Vaksinasi Korporat Di Tapak", "desc": "Program vaksinasi di premis syarikat — Hepatitis B, Influenza, MMR, dan lain-lain." },
+        { "title": "FOMEMA & Pra-Pekerjaan", "desc": "Peperiksaan FOMEMA untuk pekerja asing dan peperiksaan pra-pekerjaan untuk pekerja baru." }
+      ]
+    },
+    "partnership": { "heading": "Rakan Strategik MIOSH", "description": "Klinik Medi Iman dengan bangganya menjadi rakan strategik MIOSH dalam memastikan tempat kerja yang lebih selamat dan sihat.", "quote": "\"Caring Your Health, Protecting Your Workplace. Together, We Care.\"" },
+    "cta": { "heading": "Pertanyaan Korporat & Organisasi", "description": "Untuk pertanyaan mengenai program vaksinasi korporat, medical surveillance, atau pakej OSH — hubungi kami terus.", "btnWa": "WhatsApp Pertanyaan Korporat", "btnAppt": "Buat Temujanji" }
+  },
+  "appointmentPage": {
+    "hero": { "label": "Temujanji", "heading": "Buat Temujanji", "description": "Isi borang di bawah dan kami akan menghubungi anda melalui WhatsApp untuk mengesahkan temujanji." },
+    "form": {
+      "heading": "Borang Temujanji",
+      "sub": "Isi borang ini dan anda akan diarahkan ke WhatsApp untuk mengesahkan temujanji.",
+      "nameLbl": "Nama Penuh",
+      "namePlaceholder": "Contoh: Ahmad bin Ali",
+      "phoneLbl": "No. Telefon",
+      "phonePlaceholder": "012-345 6789",
+      "serviceLbl": "Perkhidmatan",
+      "servicePlaceholder": "Pilih perkhidmatan...",
+      "services": ["Kesihatan Am", "Kesihatan Mental", "Rawatan Lutut & Tumit", "Pengurusan Berat Badan", "OSH & Kesihatan Pekerjaan", "FOMEMA & Peperiksaan", "Vaksinasi", "Lain-lain"],
+      "dateLbl": "Tarikh Pilihan",
+      "messageLbl": "Mesej / Nota Tambahan",
+      "messagePlaceholder": "Nyatakan simptom, soalan, atau maklumat tambahan...",
+      "submit": "Hantar via WhatsApp",
+      "privacyNote": "Anda akan diarahkan ke WhatsApp dengan maklumat ini. Tiada data disimpan."
+    },
+    "sidebar": {
+      "waHeading": "WhatsApp Terus",
+      "waDesc": "Untuk temujanji segera atau pertanyaan cepat, hubungi terus via WhatsApp.",
+      "waBtn": "Hantar WhatsApp",
+      "infoHeading": "Maklumat Klinik",
+      "notesHeading": "📝 Nota Penting",
+      "notes": ["Temujanji disahkan melalui WhatsApp", "Untuk saringan mental: Khamis & Jumaat sahaja", "Sila hadir 10 minit awal dari masa temujanji", "Bawa kad pengenalan anda"]
+    },
+    "waMessage": "Assalamualaikum, saya ingin membuat temujanji di Klinik Medi Iman.\n\n*Nama:* {name}\n*No. Telefon:* {phone}\n*Perkhidmatan:* {service}\n*Tarikh Pilihan:* {date}\n*Mesej:* {message}"
+  },
+  "contactPage": {
+    "hero": { "label": "Hubungi Kami", "heading": "Kami Sedia Melayan Anda", "description": "Ada pertanyaan? Ingin buat temujanji? Kami boleh dihubungi melalui pelbagai saluran." },
+    "phoneCard": { "heading": "Telefon / WhatsApp", "waLabel": "WhatsApp" },
+    "addressCard": { "heading": "Alamat Klinik", "cta": "Dapatkan Arah" },
+    "socialCard": { "heading": "Media Sosial", "desc": "Ikuti kami untuk tips kesihatan dan info terkini.", "igLabel": "Instagram", "fbLabel": "Facebook" },
+    "hoursHeading": "Waktu Operasi",
+    "schedule": [
+      { "day": "Isnin – Khamis", "time": "9:00 PG – 9:00 MLM", "rest": "Rehat: 1:00 – 2:00 PTG" },
+      { "day": "Jumaat", "time": "9:00 PG – 9:00 MLM", "rest": "Rehat: 12:30 – 2:30 PTG" },
+      { "day": "Sabtu – Ahad", "time": "9:00 PG – 9:00 MLM", "rest": "Tiada waktu rehat" }
+    ],
+    "openLabel": "Klinik Buka Hari Ini",
+    "openSub": "9:00 PG – 9:00 MLM",
+    "cta": { "heading": "Buat Temujanji Sekarang", "description": "Jangan tangguh — hubungi kami dan dapatkan rawatan yang anda perlukan hari ini.", "btn": "Borang Temujanji" }
+  },
+  "notFound": {
+    "title": "Halaman Tidak Dijumpai",
+    "description": "Maaf, halaman yang anda cari tidak wujud atau telah dipindahkan.",
+    "homeBtn": "Kembali ke Laman Utama",
+    "waBtn": "WhatsApp Kami"
+  },
+  "meta": {
+    "siteName": "Klinik Medi Iman",
+    "tagline": "Care with Compassion",
+    "home": { "title": "Klinik Medi Iman | Doktor Perempuan | Semenyih, Selangor", "description": "Klinik Medi Iman di Semenyih — rawatan berkualiti penuh keprihatinan. Kesihatan am, mental, lutut & tumit, berat badan, OSH & FOMEMA. Buka 9PG–9MLM setiap hari." },
+    "about": { "title": "Tentang Kami | Klinik Medi Iman Semenyih", "description": "Kenali Klinik Medi Iman — diasaskan oleh Dr. Shahrul Effendi Bin Shuib. Misi kami: rawatan berkualiti penuh keprihatinan di Semenyih." },
+    "services": { "title": "Perkhidmatan | Klinik Medi Iman Semenyih", "description": "Semua perkhidmatan Klinik Medi Iman — kesihatan am, mental, rawatan lutut & tumit, pengurusan berat badan, OSH, dan FOMEMA." },
+    "generalHealth": { "title": "Kesihatan Am | Klinik Medi Iman Semenyih", "description": "Rawatan kesihatan am di Semenyih — demam, flu, diabetes, hipertensi, ECG, ujian darah, luka. Buka 9PG–9MLM setiap hari." },
+    "mentalHealth": { "title": "Kesihatan Mental | Klinik Medi Iman Semenyih", "description": "Perkhidmatan kesihatan mental di Semenyih. Saringan PHQ-9 & GAD-7, pakej penilaian RM 149, sokongan emosi." },
+    "knee": { "title": "Rawatan Lutut & Tumit | Klinik Medi Iman Semenyih", "description": "Suntikan lutut, rawatan plantar fasciitis, dan penilaian ortopedik di Semenyih. Hubungi 011-6986 3974." },
+    "weight": { "title": "Pengurusan Berat Badan | Klinik Medi Iman Semenyih", "description": "Program pengurusan berat badan diselia doktor di Semenyih. Selamat, berkesan, dan komprehensif." },
+    "osh": { "title": "OSH & FOMEMA | Klinik Medi Iman Semenyih", "description": "Perkhidmatan OSH dan FOMEMA di Semenyih. Doktor OHD berlesen NIOSH. Medical surveillance, fitness-to-work, vaksinasi korporat." },
+    "appointment": { "title": "Buat Temujanji | Klinik Medi Iman Semenyih", "description": "Buat temujanji di Klinik Medi Iman Semenyih. Hubungi 011-6986 3974 atau isi borang dalam talian." },
+    "contact": { "title": "Hubungi Kami | Klinik Medi Iman Semenyih", "description": "Lokasi dan maklumat hubungan Klinik Medi Iman. No 2-G, Jalan Kiara 2, 43500 Semenyih. 011-6986 3974." }
+  }
+}

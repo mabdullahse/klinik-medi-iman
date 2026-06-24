@@ -1,0 +1,81 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 40 50% 97%;
+    --foreground: 0 0% 10%;
+    --card: 0 0% 100%;
+    --card-foreground: 0 0% 10%;
+    --popover: 0 0% 100%;
+    --popover-foreground: 0 0% 10%;
+    --primary: 349 63% 29%;
+    --primary-foreground: 40 50% 97%;
+    --secondary: 40 30% 88%;
+    --secondary-foreground: 349 63% 29%;
+    --muted: 40 20% 92%;
+    --muted-foreground: 0 0% 42%;
+    --accent: 42 55% 54%;
+    --accent-foreground: 0 0% 10%;
+    --destructive: 0 84% 60%;
+    --destructive-foreground: 0 0% 98%;
+    --border: 40 20% 85%;
+    --input: 40 20% 85%;
+    --ring: 349 63% 29%;
+    --radius: 0.625rem;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+  body {
+    @apply bg-cream text-foreground font-inter antialiased;
+  }
+  h1, h2, h3, h4 {
+    @apply font-playfair;
+  }
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+  .section-padding {
+    @apply py-16 md:py-24;
+  }
+  .container-custom {
+    @apply max-w-7xl mx-auto px-4 sm:px-6 lg:px-8;
+  }
+  .heading-xl {
+    @apply font-playfair text-4xl md:text-5xl lg:text-6xl font-bold leading-tight;
+  }
+  .heading-lg {
+    @apply font-playfair text-3xl md:text-4xl font-bold;
+  }
+  .heading-md {
+    @apply font-playfair text-2xl md:text-3xl font-semibold;
+  }
+  .gold-divider {
+    @apply w-16 h-1 bg-gold rounded-full;
+  }
+}
+
+/* Smooth scroll */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+}
+::-webkit-scrollbar-track {
+  background: #FAF6EF;
+}
+::-webkit-scrollbar-thumb {
+  background: #C9A84C;
+  border-radius: 3px;
+}
